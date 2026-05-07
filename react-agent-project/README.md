@@ -70,3 +70,43 @@ By completing this project, you will learn:
 
 ## Conclusion
 This minimal project serves as a perfect stepping stone into the exciting world of AI agents. By understanding this basic loop of reasoning and acting, you are now prepared to explore more advanced agents that utilize Large Language Models (LLMs) and complex toolchains!
+# ReAct AI Agent
+
+## Name
+Revathy
+
+## Track
+Backend Dev
+
+## Lab Name
+ReAct Agent
+
+## Project Description
+This project demonstrates a simple ReAct (Reasoning + Acting) AI Agent built using Python.
+
+The agent:
+- Accepts a user query
+- Thinks step-by-step
+- Selects a tool
+- Executes the tool
+- Observes the result
+- Returns the final answer
+
+A calculator tool is used in this project to solve mathematical queries.
+
+---
+
+## Folder Structure
+
+```text
+react-agent-project/
+│
+├── src/
+│   └── react_agent.py
+│
+├── screenshots/
+│   └── output.png
+│
+├── README.md
+│
+└── requirements.txt
